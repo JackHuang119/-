@@ -8,7 +8,7 @@ public class CommentDemo {
 
     static void main() {
 
-        // 单行注释
+        // 单行注释1
         System.out.println("单行注释");
 
         /*
