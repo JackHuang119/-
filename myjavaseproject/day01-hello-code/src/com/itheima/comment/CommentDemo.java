@@ -16,8 +16,6 @@ public class CommentDemo {
          */
         System.out.println("多行注释");
 
-
-
         /**
           文档注释
          */
